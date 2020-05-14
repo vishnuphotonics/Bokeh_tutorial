@@ -5,3 +5,6 @@ Step 2 :
 Click on the link generated or local host:5006
 
 Step 3:
+bokeh serve s5_dynamic_widgets_1.py 
+
+Step  4:
