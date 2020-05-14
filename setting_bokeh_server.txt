@@ -1,0 +1,7 @@
+Step1:
+python3 -m bokeh serve 2.widgets_html_server.py 
+
+Step 2 :
+Click on the link generated or local host:5006
+
+Step 3:
