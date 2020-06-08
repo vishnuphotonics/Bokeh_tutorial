@@ -1,4 +1,7 @@
 sudo apt-get install libproj-dev proj-data proj-bin  
 sudo apt-get install libgeos-dev  
 sudo pip install cython  
-sudo pip install cartopy  
+sudo pip install cartopy 
+
+sudo pip uninstall shapely
+sudo pip install shapely --no-binary shapely
